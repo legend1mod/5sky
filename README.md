@@ -1,35 +1,3 @@
-# 5sky
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@legend1mod 
-jimboy3100
-/
-jimboy3100.github.io
-5
-1098
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-jimboy3100.github.io/5agario.html
-@jimboy3100
-jimboy3100 Update 5agario.html
-Latest commit 92e55f6 on Jun 20, 2019
- History
- 1 contributor
-75 lines (70 sloc)  3.62 KB
-  
 <html>
 <head></head>
 <body>
@@ -105,15 +73,3 @@ function getParameterByName(name, url) {
   
 </body>
 </html>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
